@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="home677176380.1and1-data.host" id="c6ed054d-ce13-4c16-a4cb-5547a612b220" port="22" customName="IONOS PLATEAU" nameFormat="CUSTOM" username="u88937408-plateau" useOpenSSHConfig="true">
+        <option name="customName" value="IONOS PLATEAU" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
