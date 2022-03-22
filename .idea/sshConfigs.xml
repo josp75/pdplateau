@@ -5,6 +5,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="home677176380.1and1-data.host" id="c6ed054d-ce13-4c16-a4cb-5547a612b220" port="22" customName="IONOS PLATEAU" nameFormat="CUSTOM" username="u88937408-plateau" useOpenSSHConfig="true">
         <option name="customName" value="IONOS PLATEAU" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="home677176380.1and1-data.host" id="ca7c8c50-c1cd-45c2-968a-e365abae910f" port="22" customName="TEST PLATEAU" nameFormat="CUSTOM" username="u88937408-testeur" useOpenSSHConfig="true">
+        <option name="customName" value="TEST PLATEAU" />
+      </sshConfig>
     </configs>
   </component>
 </project>

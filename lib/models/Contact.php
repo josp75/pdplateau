@@ -1,13 +1,14 @@
 <?php
+
+
 /*
- * WEBADMIN 2.0
- * Project aggregation tool
- * Codes are guaranteed for target actions
- * @copyright IMEDIATIS Ltd 2021
- * @author Cyrille WOUPO (cyrille@imediatis.net)
+ * ECOMMERCE PDP
+ * Vente en ligne pour la PDP
+ * @copyright IMEDIATIS Ltd 2022
+ * @author Jospin MAMBOU (jospin@imediatis.net)
  * @package WEBADMIN 2.0
- * @client https://imediatis.net
- * @version 2.0
+ * @client PDP
+ * @version 1.0
  *
  */
 

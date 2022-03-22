@@ -139,10 +139,10 @@ class Family extends FamilyDBA
     private function toArray(): array
     {
         return [
+            parent::TOKEN => (int) $this->token,
             parent::NAME => U::getString($this->name),
             parent::DESCRIPTION => U::getString($this->description),
-            parent::TOKEN => $this->token,
-            parent::ACTIVE => $this->active,
+            parent::ACTIVE => $this->active
         ];
     }
 
@@ -167,7 +167,6 @@ class Family extends FamilyDBA
 
     /**
      * @return bool
-     * @throws Exception
      */
     public function save(): bool
     {
